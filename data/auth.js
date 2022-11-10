@@ -1,8 +1,8 @@
 let users = [
   {
-    id: "1",
-    username: "JINKI",
-    password: "12345",
+    id: "123",
+    username: "JINKIHYEOK",
+    password: "abc12345",
     name: "JIN",
     email: "jkhsky121@gmail.com",
     url: "",
